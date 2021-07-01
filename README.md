@@ -1,4 +1,4 @@
-This repository contains implementations of some searching heuristics and approximation algorithms. 
+This repository contains implementations of some searching heuristics and approximation algorithms for the traveling salesman problem (TSP). 
 
 
 
